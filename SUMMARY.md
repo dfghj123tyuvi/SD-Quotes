@@ -6,4 +6,6 @@
   * [正文](第一章/read.md)
 * [第二章](di-er-zhang/README.md)
   * [正文](第二章/read.md)
+* [第三章](di-san-zhang/README.md)
+  * [正文](di-san-zhang/read.md)
 

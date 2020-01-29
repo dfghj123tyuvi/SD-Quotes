@@ -8,5 +8,6 @@
   * [正文](di-er-zhang/read.md)
 * [第三章](di-san-zhang/README.md)
   * [正文](di-san-zhang/read.md)
-* [后记](hou-ji.md)
+* [后记](hou-ji/README.md)
+  * [鸣谢](hou-ji/ming-xie.md)
 

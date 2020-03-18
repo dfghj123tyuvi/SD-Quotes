@@ -38,9 +38,9 @@ document.write（写下你自己新的一页吧）
 {% endtab %}
 {% endtabs %}
 ## 花絮部分
-- sd语录录音：<a href="/resources/刘缺德语录.mp3">Click here</a>
+- SD语录录音：<a href="/resources/刘缺德语录.mp3">Click here</a>
 - 众人划桨开大船：<a href="/resources/众人划桨开大船_剪辑版.mp3">Click here</a>
-- *山长水阔知何处*
+- **欲寄彩笺兼尺素，山长水阔知何处。**
 
 
 
